@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Package Files
+*.jar
+*.war
+
+# IDE-specific files
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+
+# Build directories
+bin/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
