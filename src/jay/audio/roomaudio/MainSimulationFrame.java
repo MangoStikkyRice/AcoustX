@@ -14,7 +14,7 @@ public class MainSimulationFrame extends JFrame {
     private boolean dualMode = false;
 
     public MainSimulationFrame() {
-        setTitle("2D Wave Simulation 😏");
+        setTitle("SIMULATION MODE");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
         int width = 400;
